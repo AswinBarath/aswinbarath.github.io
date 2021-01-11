@@ -3,7 +3,7 @@ layout: post
 title:  Building Blocks of any Programming Language
 date:   2020-07-21 23:29:10 +0530
 description: Explore the Concepts and Topics common to all programming languages, that either a Beginner to Programming or Programmer must know!
-img: post-2.png
+img: post-2.jpeg
 tags: [Blog, Programming, codenewbie, computerscience, beginners]
 author: Aswin Barath
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Become a Job Ready Programmer
 date:   2020-09-09 21:30:55 +0530
 description: Do you want to pursue a career in Technology and don’t know where to start?
-img: post-4.png
+img: post-4.jpeg
 tags: [Blog, java, webdev, beginners, springframework]
 author: Aswin Barath
 ---

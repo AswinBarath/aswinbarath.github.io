@@ -3,7 +3,7 @@ layout: post
 title:  Become A Data Analyst
 date:   2020-09-09 21:16:23 +0530
 description: Learn SQL, Python, Tableau, Elasticsearch, and Apache Spark and become a Data Engineer!
-img: post-3.png
+img: post-3.jpeg
 tags: [Blog, sql, postgres, python, database]
 author: Aswin Barath
 ---

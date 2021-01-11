@@ -3,7 +3,7 @@ layout: post
 title: Here Are The Goals  of Big Tech, NGOs, and Startups
 date:   2020-08-04 14:50:55 +0530
 description: 
-img: post-5.png
+img: post-5.jpg
 tags: [Blog, Industry updates]
 author: Aswin Barath
 ---
