@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Python Programming A Beginner’s Guide
-date:   2020-07-17 13:32:20 +0300
+date:   2020-07-17 11:33:44 +0530
 description: Python is an interpreted, high-level, powerful general-purpose programming language. # Add post description (optional)
 img: post-1.png # Add image post (optional)
 tags: [Blog, Python]
