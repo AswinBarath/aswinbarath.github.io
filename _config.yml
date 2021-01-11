@@ -1,1 +1,48 @@
-theme: jekyll-theme-architect
+title: My personal blog - Aswin Barath
+email: aswin2001barath@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Welcome to my blog page where Technology and Software blends into singularity
+
+permalink: ':title/'
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "https://aswinbarath.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Author settings
+author: Aswin Barath
+author-pic: Formal_Profile_Picture-2.jpg
+about-author: My name is Aswin Barath. I’m a technical blogger and budding software engineer
+
+# Contact links
+email: aswin2001barath@gmail.com # Add your Email address
+phone: +918754105798# Add your Phone number
+website: aswinbarath.github.io # Add your website, do not add http://
+linkedin: aswin-barath # Add your Linkedin handle
+github: AswinBarath # Add your Github handle
+twitter: '@AswinBarath2' # Add your Twitter handle
+facebook: # Add your Facebook handle
+instagram: # Add your Instagram handle
+pinterest: # Add your Pinterest handle
+
+# Newsletter
+mailchimp: # Add your MailChimp form identifier.
+
+# Disqus
+discus_identifier: mr-brown # Add your discus identifier
+
+# Tracker
+analytics: # Google Analytics
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]

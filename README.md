@@ -1,2 +1,2 @@
-# ashwin.github.io
-GitHub page to display my projects
+# aswinbarath.github.io/
+Welcome to my blog page where Technology and Software blends into singularity
