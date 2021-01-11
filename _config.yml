@@ -14,13 +14,13 @@ about-author: My name is Aswin Barath. I’m a technical blogger and budding sof
 
 # Contact links
 email: aswin2001barath@gmail.com # Add your Email address
-phone: +918754105798# Add your Phone number
+phone: +918754105798 # Add your Phone number
 website: aswinbarath.github.io # Add your website, do not add http://
 linkedin: aswin-barath # Add your Linkedin handle
 github: AswinBarath # Add your Github handle
 twitter: '@AswinBarath2' # Add your Twitter handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
+facebook: 100011683902531 # Add your Facebook handle
+instagram: ashwin_26.4 # Add your Instagram handle
 pinterest: # Add your Pinterest handle
 
 # Newsletter
@@ -33,7 +33,7 @@ discus_identifier: mr-brown # Add your discus identifier
 analytics: # Google Analytics
 
 # Paginate
-paginate: 7
+paginate: 8
 paginate_path: /page:num/
 
 # Build settings
