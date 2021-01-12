@@ -2,8 +2,7 @@
 layout: post
 title: Data types in python
 date:   2020-12-31 11:35:45 +0530
-description: Data types are one of the building blocks of python.
-And You can do a lot of things with data types!
+description: Data types are one of the building blocks of python and you can do a lot of things with data types!
 img: post-7.png
 tags: [Blog, python, programming]
 author: Aswin Barath
