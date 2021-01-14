@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Else Clauses on Loops
-date:   2021-01-12 01:01:35 +0530
+date:   2021-01-13 01:01:35 +0530
 description: Loop statements may have an else clause.
 img: post-21.png
 tags: [Blog, python, programming]
