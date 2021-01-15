@@ -30,7 +30,9 @@ Now, let's demistify all these data types by using **type()** function to displa
 * Strings can be written either in single quotes or double qoutes in python, hence your choice.
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/25xdoosnglpropiolf48.png)
+
 Output:
 ~~~
 Hello, world!
@@ -42,7 +44,9 @@ Hello, world!
 * **int** stands for integer used to store integers (positive and negative numbers).
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/9o2nevzwmja0077x2wxw.png)
+
 Output:
 ~~~
 4
@@ -53,7 +57,9 @@ Output:
 * **float** stands for floating-point numbers (decimal point numbers)
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/wnwurmjjm4iaw5spil0o.png)
+
 Output:
 ~~~
 3.14
@@ -67,7 +73,9 @@ Output:
 2. complex(real, imag)
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/ns2ls7oxa2c9eroauw4z.png)
+
 Output:
 ~~~
 (5+10j)
@@ -81,7 +89,9 @@ Output:
 * A list is *ordered* and *changeable* and *allows duplicate members*
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/h46njcd90tg56hm88zhw.png)
+
 Output:
 ~~~
 ['Captain America', 'Iron Man', 'Thor', 'Hulk', 'Black Widow', 'Hawkeye']
@@ -94,7 +104,9 @@ Output:
 * A tuple is *ordered* and *unchangeable* and *allows duplicate members*
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/v2i2fl3br10pczps8791.png)
+
 Output:
 ~~~
 ('Captain America', 'Iron Man', 'Thor', 'Hulk', 'Black Widow', 'Hawkeye')
@@ -106,7 +118,9 @@ Output:
 * Commonly used for looping a specific number of times in for loops.
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/ngwqoyg24of3bwbz22p1.png)
+
 Output:
 ~~~
 range(0, 10)
@@ -120,7 +134,9 @@ range(0, 10)
 * A dictionary is a collection which is *unordered*, *changeable* and *does not allow duplicates*
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/h1pk4dyj8vd0gxnmleob.png)
+
 Output:
 ~~~
 {'Learning': 'Programming', 'Language': 'Python', 'Day': 4}
@@ -134,7 +150,9 @@ Output:
 * A set is *unordered* and *unindexed* and *allows no duplicate members*
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/va8lo4m9mq3irs0pdxbv.png)
+
 Output:
 ~~~
 {'Black Widow', 'Iron Man', 'Thor', 'Hawkeye', 'Hulk', 'Captain America'}
@@ -146,7 +164,9 @@ Output:
 * The *frozenset()* function accepts an iterable and returns an unchangeable frozenset object (which is like a set object, only unchangeable)
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/1kr3t7ckx3k4lcmtfjbb.png)
+
 Output:
 ~~~
 frozenset({'cherry', 'banana', 'apple'})
@@ -159,7 +179,9 @@ frozenset({'cherry', 'banana', 'apple'})
 * Booleans represent one of two values: True or False
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/wvfnimdhy1el632zqujf.png)
+
 Output:
 ~~~
 True
@@ -175,7 +197,9 @@ False
 2. prefix 'b'
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/8fezfzuzy9lbmq8afimw.png)
+
 Output:
 ~~~
 b'hello'
@@ -189,7 +213,9 @@ b'Hello'
 * It can convert objects into bytearray objects
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/7qa1skl8o6vkzmvuv5oo.png)
+
 Output:
 ~~~
 bytearray(b'\x00\x00\x00\x00')
@@ -200,7 +226,9 @@ bytearray(b'\x00\x00\x00\x00')
 * **memoryview()** function returns a memory view object from a specified object
 
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/32y2r4vkz28cx5u5gmg8.png)
+
 Output:
 ~~~
 <memory at 0x2b4f7a8a7408>
@@ -212,7 +240,9 @@ Output:
 As you might have observed earlier, some data types can be also implemented using their constructors.
 This same technique can also be applied to every data type.
 Example:
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/5mnh3ye6f64n5vmrzxcn.png)
+
 Output:
 ~~~
 Hello, World!

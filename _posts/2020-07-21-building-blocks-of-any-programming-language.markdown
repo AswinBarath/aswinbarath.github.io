@@ -41,6 +41,7 @@ Well, according to me programming is like raising a baby. We provide knowledge(d
 Similarly, a Computer is like a baby. We set rules and provide data to the Computer through executable programs with the help of a *Programming Language*.
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/874h6kif4nebz62v7ovr.jpeg)
+
 (Photo by Clément H on Unsplash)
 
 That’s it👍. If you can understand this basic concept of programming, you’re good to go. Pick up a programming language and start learning. Read the following section to get an idea of where to start.
@@ -52,6 +53,7 @@ My recommendation is to choose Python Programming Language as a start, coz it’
 Anyone can start to learn a programming language, but to learn it effectively you need to learn the **Building Blocks** of a Programming Language.👇
 
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/vu98ax3ei4zx0verespc.jpeg)
+
 (Photo by La-Rel Easter on Unsplash)
 
 ## Syntax

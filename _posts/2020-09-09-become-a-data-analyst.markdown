@@ -50,29 +50,39 @@ Today, data has become the hottest topic in technology and a company’s biggest
 ### The Complete Oracle SQL Certification Course
 All databases require the language SQL to store and retrieve data. Salaries for junior level SQL Developers are upwards of $70,000 — $90,000 a year! 🤩
 And Oracle is the most popular relational database in the world!
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/ed70pbgg7ywgntk3zm9w.png)
+
 You’ll learn the SQL language from scratch in Oracle Database and prepare yourself with plenty of progressively challenging assignments. So that by the time you’ve completed the course, you can call your self an Oracle SQL Master👨‍💼👩‍💼!
 This course will prepare you to be job-ready in just 1 month of study and practice.
 
 ### Master SQL for Data Science
 This course will turn you into a SQL query wizard🧙‍♂️. You’ll learn the skills you need to extract critical insight from data sitting in a database.
 There are over 100 puzzles scattered throughout the course with in-depth solutions providing plenty of opportunities for you to practice. After completing the course and all of its assignments, you’ll never be afraid to look at a large SQL query again.
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/5yyk0wrbun0ofwma2mi3.png)
+
 PostgreSQL is the second most used Database technology in the world. It’s a popular free and Open-source Database Software and you’ll learn SQL queries implementing in it.
 You’ll move step by step into more advanced topics as we delve into the world of advanced querying techniques using subqueries, joins, aggregations, rollups, and cubes, window functions, transposing & ranking data, and using conditional expressions in very interesting ways.
 
 ### The Complete Python Certification Course
 Getting certified as a Python developer is one of the best moves you can make to enter the job market as a developer! The starting salary for a Python developer is around $75,000.🤑This can quickly double to over $150,000 after 5–6 years of experience.🤩
 Python is ranked as the 2nd most in-demand programming language in the world. It can be applied in web applications, data science, machine learning, self-driving cars, automation, and much more!
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/09npo8v8s2xpgt2l3q1u.png)
+
 **(No prerequisites required!😉)** In this course, you’ll start with the fundamental topics such as variables, data types, strings, lists, dictionaries, functions, if and else statements, for and while loops and thoroughly master Object-Oriented Programming, classes, inheritance, python script files, file IO and Best Practices used in the Industry by Python Developers. At the end of each section, there are assignments to practice everything that you’ll cover, along with in-depth solutions.
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/3taq6ujc4ptq29hfavr8.png)
+
 You’ll get your hands dirty and code along with the Instructor, and work on the 20+ assignments that have been spread out through the course. In the end, you’ll be prepared to pass the PCEP-30–01 and the PCAP-31–02 Exams and become an industry-ready python developer👨‍💼👩‍💼!
 
 ### Up and Running with Tableau
 Did you know, that the average salary of the Tableau developer is over $108,000! with increasing demand for these professionals, every single day and the starting salaries are above the $75,000 mark🤩.
 And currently, there are 60,000+ jobs on Linkedin👨‍💼👩‍💼, so you have nothing to lose. So, Learn data visualization through Tableau 10 and master the art of turning data into critical information for key decision making.
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/csngnig3y5h87xqjlvl8.jpeg)
+
 In this course, you’ll learn all of the features of the tool from scratch, and learn how you can discover data patterns such as customer purchase behavior, pricing, and sales trends as well as customer demographics and geolocation analysis.📉📊
 You’ll become confident by the end of this course as you’ll have the skills required to successfully pass the Interview for an entry-level Tableau developer position!
 
@@ -80,16 +90,22 @@ You’ll become confident by the end of this course as you’ll have the skills 
 Master the hottest big data technology on the market Elasticsearch! Elasticsearch is a powerful distributed, RESTful search and analytics engine capable of solving a growing number of use cases.
 Elasticsearch one of the biggest player in the Big Data space since Hadoop. By adding Elasticsearch in your Resume or Linkedin profile you’ll gain the attention of various companies investing in the technology👨‍💼👩‍💼.
 (This is Awesome🤩)
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/ub2bm9a8lebc021xz4o8.png)
+
 By the end of this course, you’ll know everything there is to know about how to build an Elasticsearch engine and how to perform real-time analytics using accompanying tools: Logstash and Kibana, that make up the elastic search ecosystem.
 
 ### Ultimate Apache Spark with Java Course
 Become seriously marketable by learning the most in-demand big data technology — Apache Spark, it’s the next generation batch and stream processing engine. It’s been proven to be almost 100 times faster than Hadoop and much much easier to develop distributed big data applications with.
 Over 3000 companies are using Spark in production right now and the list is growing very quickly! Some of the big names include Oracle, Hortonworks, Cisco, Verizon, Visa, Microsoft, Amazon as well as most of the big world banks and financial institutions!
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/xo5sa0n764um4hy13r8j.png)
+
 Its demand has skyrocketed in recent years and having this technology on your resume is truly a game-changer.
 This course is especially important for people who would like to be hired as a Java Developer or Data Engineer because Spark is a hugely sought after skill.
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/vnm0872rl4irp3ld4uwh.png)
+
 In this course, you’ll learn everything you need to know about using Apache Spark while using their latest and greatest Java Datasets API.
 You’ll even go over how to set up a live cluster and configure Spark Jobs to run on the cloud. And also learn about the practical implications of performance tuning and scaling out a cluster to work with big data.
 

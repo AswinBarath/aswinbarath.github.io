@@ -20,6 +20,7 @@ But first things first👇.
 ## Why become a Software Developer🤔?
 Software development is one of the jobs that — depending on your responsibilities and how good you are at your job — generally come with good pay.
 Software developers are the creative minds behind computer programs. Some develop applications that allow people to do specific tasks on a device. Others develop the underlying systems that run the devices or that control networks.
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/zzhkvcomotf79nd5xksp.png)
 
 ## Start with Why❔❓
@@ -70,6 +71,7 @@ You’ll master the most in-demand and critical components for becoming a core J
 ### Master Practical Java Development
 Here, you’ll be mastering the collections framework, java generics, multithreading, Lamda expressions, JDBC API for working with a MySQL database. There’s also a Practical Project — Stock Market Data Processor(This is a fun one😉 and a real-world software project) you’ll build from scratch.
 At the end of this course, you’ll learn things you can take to your interview and be confident on the first day of the job👨‍💼👩‍💼!
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/gspia040fq8p01uwcgrp.png)
 
 ### Master Object-Oriented Design in Java
@@ -78,6 +80,7 @@ So to take your programming skills to the next level in this course, you’ll ho
 
 ### Master Spring Framework 5 + Boot 2 + Spring Web
 Spring is the most popular framework in the Java Ecosystem with over 90% of Enterprise applications built using Spring. So, you can’t call yourself a complete Java Developer without having experience developing using the Spring Framework.
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/woogi8q93zcxqjlntc3g.png)
 
 In this course, you’ll be walking through step by step on how to build a real-world production-ready Spring web app from scratch. During the process, you’ll learn all the important concepts you need to build a Project Management tool for Managers to assign projects, tasks, and deadlines with Data visualizations. (This project is an awesome workplace project😇)
@@ -87,7 +90,9 @@ Core Spring Concepts, Spring Boot 2, Spring MVC, Spring AOP (Aspect Oriented Pro
 ### Practical Data Structures and Algorithms
 Now, if I had to pick the most important topic in software development, that would be Data Structures and Algorithms. It’s the fundamental tool that every programmer needs to know!
 The better you get with these tools the more confident a programmer you’ll become. This will be a huge leap forward in your programming journey and it’ll certainly pave the way for a successful programming career.
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/p04xp559u83y6gn7as7h.jpeg)
+
 So the topics covered in this course are important Data structures like
 Stacks, Queues, Linked lists, Trees, and Heaps. And then you’ll also learn some of the most powerful algorithms for sorting, searching, and graph traversal that has revolutionized the field of computing.
 Throughout this course, things are practical and provided with real-life examples of how all of these Data Structures and Algorithms work. And when & where they can be applied to write efficient computer programs.
@@ -95,19 +100,25 @@ Throughout this course, things are practical and provided with real-life example
 ### Learn Java Through Coding Puzzles & Eliminate Code Fear
 Surprisingly a large fraction of applicants, even those with masters’ degrees and PhDs in computer science, fail during interviews when asked to carry out basic programming tasks such as iterate over a loop and print numbers from 1–10 or solve the common fizz buzz problem.
 They could have an impressive academic background as well as experience in various technologies and software projects, but when posed with an interesting programming problem, their code falls apart. The fact is, you don’t need a college education to become a good programmer.
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/4lmrvgu78q65c4eo0j3l.png)
+
 Simply there is a big divide between people who can program and those that can’t. The difference has to do with mastering the fundamental building blocks of programming like string manipulation, lists, loops, logic, and recursion. Think of these as the tools a programmer can use to solve problems and you’ll get an opportunity to cover these fundamental topics in this course.
 So, this course offers a systematic and structured way for you to acquire that practice using only a subset of the java language without getting sidetracked in other areas of software development. Every concept comes with a coding challenge, which you’ll try solving on your own before going over the solution in detail.
 
 ### Up and Running with JQuery
 Acquire the most in-demand skills needed for web-development and become an industry-ready jQuery professional. According to W3 Techs usage statistics, jQuery is the most widely used Javascript library in the world.
 jQuery has become the backbone for all modern web frameworks like Angular js, Node js, and Bootstrap. jQuery is an essential library to do anything useful in a web project on time!
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/jtu2rmgcqt35n6ho01li.png)
+
 Anyone with a little bit of CSS and HTML knowledge can get up and running quickly with jQuery and acquire in-demand skills such as DOM Traversal and Manipulation, Event handling, and Ajax. This course is full of practical assignments to test your knowledge with detailed solutions so that you can master the content.
 
 ### Practical Design Patterns in Java
 As you were introduced to some OOP Design patterns in the Master Object-Oriented Design course(mentioned above) such as the Template Method Pattern and the Strategy Pattern.
+
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/d98cpzinw7l3ihw5xoth.png)
+
 In this course, you’ll cover some of the most popular design patterns used in the industry that you’re likely to stumble upon during an interview such as builder, dependency injection, observer, factory, and singleton all with practice assignments along the way so that it sticks!
 
 ## Meet the Instructor👨‍🏫
