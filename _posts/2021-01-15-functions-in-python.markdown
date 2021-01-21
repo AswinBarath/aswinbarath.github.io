@@ -27,14 +27,14 @@ author: Aswin Barath
 ### Creating a function
 * To create a function we use the keyword `def`.
 * `def` must be followed by the function name.
-* followed by a parenthesis filled with formal parameters(parameters).
+* followed by a parenthesis filled with formal parameters(optional).
 * The statements that follow up makes the body of the function.
 * **Note:** Any code written inside a function must be indented.
 * Let's see an example where I thank every one of my readers:
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/lcfr9b09yvqq8ej8wzso.png)
 
 ### Calling a function
-* To call a function we use the function name followed by parenthesis filled with actual parameter(arguments).
+* To call a function we use the function name followed by parenthesis filled with actual parameter also known as arguments.
 * This is when the code inside the function actually gets executed.
 * Let's see the same example and its output:
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/ldpjd972olmmhxst9gny.png)
@@ -46,16 +46,15 @@ Hello there Jane Doe
 Thank you for taking your time to read my post ;)
 ```
 
-### Passing values to a function
-* Didn't you notice passing values to a function already?
-* We can pass values to a function through the function call.
-* We do this by writing the values inside the parenthesis of a function call.
-* Consider the above example:
+### Passing arguments to a function
+* We can pass arguments to a function through the function call.
+* We do this by writing the arguments inside the parenthesis of a function call.
+* Didn't you notice passing arguments to a function already? Look into the above example closely:
 ```
 reader("John Doe")
 reader("Jane Doe")
 ```
-* The function call `reader()` passes the values "John Doe" and "Jane Doe" as arguments to the function.
+* The function call `reader()` passes the strings "John Doe" and "Jane Doe" as arguments to the function.
 
 
 *There you go, now you can create your own functions and play with it.*
