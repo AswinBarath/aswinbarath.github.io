@@ -3,7 +3,7 @@ layout: post
 title: the return statements in functions
 date:   2021-01-16 23:19:04 +0530
 description: Explore more on functions throughreturn statements.
-img: post-23.jpg
+img: post-24.png
 tags: [Blog, python, programming, codenewbie]
 author: Aswin Barath
 ---
