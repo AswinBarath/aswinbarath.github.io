@@ -1,7 +1,7 @@
 ---
 layout: post
 title: the return statements in functions
-date:   2021-01-14 23:58:26 +0530
+date:   2021-01-16 23:19:04 +0530
 description: Explore more on functions throughreturn statements.
 img: post-23.jpg
 tags: [Blog, python, programming, codenewbie]

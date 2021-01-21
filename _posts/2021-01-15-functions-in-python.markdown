@@ -1,7 +1,7 @@
 ---
 layout: post
 title: functions in python
-date:   2021-01-14 23:58:26 +0530
+date:   2021-01-15 23:58:26 +0530
 description: A function is a piece of code.
 img: post-23.jpg
 tags: [Blog, python, programming, codenewbie]
