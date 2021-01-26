@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Arguments and parameters in function
-date:   2021-01-17 23:19:04 +0530
+date:   2021-01-17 22:08:45 +0530
 description: In general, the term parameters and arguments are being used interchangeably.
 img: post-25.png
 tags: [Blog, python, programming, codenewbie]
