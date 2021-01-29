@@ -2,7 +2,7 @@
 layout: post
 title: Functional programming in python
 date:   2021-01-18 20:56:45 +0530
-description: Learn about funcational programming, pure functions, map(), filter(), zip(), reduce()
+description: Learn about functional programming, pure functions, map(), filter(), zip(), reduce()
 img: post-26.jpg
 tags: [Blog, python, programming, codenewbie]
 author: Aswin Barath
