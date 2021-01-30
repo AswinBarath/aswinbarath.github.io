@@ -3,7 +3,7 @@ layout: post
 title: Hacktoberfest 2020 challenge completed!
 date:   2021-01-30 08:59:09 +0530
 description: Last October I successfully completed the Hacktoberfest2020 challenge by submitting 4 successful PRs
-img: post-27.jpg
+img: post-28.jpg
 tags: [Blog, hacktoberfest, github, opensource]
 author: Aswin Barath
 ---
