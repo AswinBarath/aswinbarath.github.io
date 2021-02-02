@@ -5,10 +5,7 @@
 <img src="/assets/img/blogfolio.png" alt="Blogfolio" />
 </p>
 
-<br> <br>
-<br> <br>
-<br> <br>
-<br> <br>
+
 
 
 ## Blog posts
