@@ -8,7 +8,7 @@
 
 
 
-## Blog posts
+## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Hacktoberfest 2020 challenge completed!](https://aswinbarath.github.io/Hacktoberfest-2020-challenge-completed/)
 - [Lambda expressions in python](https://aswinbarath.github.io/lambda-expressions-in-python/)
