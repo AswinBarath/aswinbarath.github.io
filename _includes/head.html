@@ -4,7 +4,22 @@
 	<meta name="description" content="{{ page.description }}">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<meta property="og:image" content="/assets/img/favicon/blogfolio.png">
+	
+	<!--  Essential META Tags -->
+	<meta property="og:title" content="Blogfolio">
+	<meta property="og:description" content="Blogfolio is a personal blogging website created by Aswin Barath.">
+	<meta property="og:image" content="{{ "/assets/img/favicon/blogfolio.png" | prepend: site.baseurl }}">
+	<meta property="og:url" content="https://aswinbarath.github.io/">
+	<meta name="twitter:card" content="{{ "/assets/img/favicon/blogfolio.png" | prepend: site.baseurl }}">
+
+	<!--  Non-Essential, But Recommended -->
+	<meta property="og:site_name" content="Blogfolio">
+	<meta name="twitter:image:alt" content="Blogfolio">
+
+	<!--  Non-Essential, But Required for Analytics -->
+	<meta property="fb:app_id" content="100011683902531" />
+	<meta name="twitter:site" content="@AswinBarath2">
+
 	<link rel="shortcut icon" href="{{ "/assets/img/favicon/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
 	<link rel="apple-touch-icon" href="{{ "/assets/img/favicon/apple-touch-icon.png" | prepend: site.baseurl }}">
 	<link rel="apple-touch-icon" sizes="72x72" href="{{ "/assets/img/favicon/apple-touch-icon-72x72.png" | prepend: site.baseurl }}">
