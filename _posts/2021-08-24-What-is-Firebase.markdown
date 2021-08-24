@@ -2,7 +2,7 @@
 layout: post
 title: What is Firebase?
 date:   2021-08-24 10:00:00 +0530
-description: Know what is firebase and it's benefits
+description: Know more about firebase and it's benefits
 img: What-is-Firebase.png
 tags: [Blog, firebase, backend]
 author: Aswin Barath
