@@ -10,6 +10,7 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Accessing Firebase services](https://aswinbarath.github.io/Accessing-Firebase-services/)
 - [Core Firebase Services](https://aswinbarath.github.io/Core-Firebase-services/)
 - [What is Firebase?](https://aswinbarath.github.io/What-is-Firebase/)
 - [Hacktoberfest 2020 challenge completed!](https://aswinbarath.github.io/Hacktoberfest-2020-challenge-completed/)
@@ -19,5 +20,4 @@
 - [the return statements in functions](https://aswinbarath.github.io/return-statements-in-functions/)
 - [functions in python](https://aswinbarath.github.io/functions-in-python/)
 - [pass statement in python](https://aswinbarath.github.io/pass-statement-in-python/)
-- [Else Clauses on Loops](https://aswinbarath.github.io/else-clauses-on-loops/)
 <!-- BLOG-POST-LIST:END -->
