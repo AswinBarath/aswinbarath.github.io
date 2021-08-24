@@ -11,6 +11,8 @@ author: Aswin Barath
 Firebase API follows a straightforward approach. 
 By invoking these methods will get you access to each Firebase service.
 
+![Firebase API](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xbnv108sxdv2nhha8d9o.png)
+
 ### Syntax to access Firebase Firestore
 
 ```
