@@ -29,4 +29,6 @@ Your app deployed using Firebase hosting gets cached on solid-state drives (SSD)
 ### Realtime Data
 Cloud Firestore database updates all connected clients in real-time. The ability to get real-time updates makes applications a lot easier to implement.
 
+
+
 Feel free to share if you found this useful 😃.
