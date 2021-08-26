@@ -20,7 +20,7 @@ linkedin: aswin-barath # Add your Linkedin handle
 github: AswinBarath # Add your Github handle
 twitter: '@AswinBarath2' # Add your Twitter handle
 facebook: 100011683902531 # Add your Facebook handle
-instagram: ashwin_26.4 # Add your Instagram handle
+instagram: aswin_barath_ # Add your Instagram handle
 pinterest: aswin2001barath # Add your Pinterest handle
 
 # Newsletter
@@ -30,10 +30,10 @@ mailchimp: a96e81d841 # Add your MailChimp form identifier.
 discus_identifier: aswinbarath-github-io # Add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: G-401BH19LW6 # Google Analytics
 
 # Paginate
-paginate: 8
+paginate: 10
 paginate_path: /page:num/
 
 # Build settings
