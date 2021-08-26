@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to programming
-date:   2021-08-26 06:30:00 +0530
+date:   2021-08-26 07:00:00 +0530
 description: Introduction to programming
 img: Intro-to-Programming.png
 tags: [Blog, programming, beginners]
