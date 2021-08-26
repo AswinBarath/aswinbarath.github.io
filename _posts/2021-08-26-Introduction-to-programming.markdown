@@ -33,13 +33,13 @@ Similarly, we use programming languages like Python, Java, C++ or others to comm
 
 Take a look at the tutorial version of this blog at Kunal Kushwaha's channel:
 
-![Introduction to Programming - Types of Languages, Memory Management](https://youtu.be/wn49bJOYAZM)
+[Introduction to Programming - Types of Languages, Memory Management](https://youtu.be/wn49bJOYAZM)
 
 Kunal is creating an amazing course on "Java + Interview Preparation + Competitive programming" for FREE on YouTube.
 
 Here's the GitHub Repository for detailed curriculum and resources: https://github.com/kunal-kushwaha/DSA-Bootcamp-Java
 
-Here's the YouTube playlist: https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ
+Here's the YouTube playlist: [Java + Interview Preparation + Competitive programming](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ)
 
 So, do check it out.
 
