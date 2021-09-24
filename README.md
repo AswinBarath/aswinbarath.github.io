@@ -10,6 +10,7 @@
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to programming](https://aswinbarath.github.io/Introduction-to-programming/)
 - [Accessing Firebase services](https://aswinbarath.github.io/Accessing-Firebase-services/)
 - [Core Firebase Services](https://aswinbarath.github.io/Core-Firebase-services/)
 - [What is Firebase?](https://aswinbarath.github.io/What-is-Firebase/)
@@ -19,5 +20,4 @@
 - [Arguments and parameters in function](https://aswinbarath.github.io/arguments-and-parameters-in-functions/)
 - [the return statements in functions](https://aswinbarath.github.io/return-statements-in-functions/)
 - [functions in python](https://aswinbarath.github.io/functions-in-python/)
-- [pass statement in python](https://aswinbarath.github.io/pass-statement-in-python/)
 <!-- BLOG-POST-LIST:END -->
