@@ -12,7 +12,7 @@
 - [Demo](#Demo)
 - [Technologies](#Technologies)
 - [What's unique in this Project](#whats-unique-in-this-project)
-- [Blog posts](-blog-posts)
+- [Blog posts](#-blog-posts)
 - [Contributors](#Contributors)
 
 ---
