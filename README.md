@@ -2,11 +2,10 @@
 <strong>Blogfolio is my personal blogging website.</strong>
 
 <p>
-<img src="/assets/img/blogfolio.png" alt="Blogfolio" />
+<img src="./assets/img/Blogfolio Cover Design.png" alt="Blogfolio" />
 </p>
 
-
-
+---
 
 ## 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -21,3 +20,7 @@
 - [the return statements in functions](https://aswinbarath.github.io/return-statements-in-functions/)
 - [functions in python](https://aswinbarath.github.io/functions-in-python/)
 <!-- BLOG-POST-LIST:END -->
+
+---
+
+[**🔼 Back to Top**](#blogfolio)
