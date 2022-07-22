@@ -56,5 +56,6 @@ Enjoy the year--->2021---> and the month --->January
 * *flush*: This is Optional. A Boolean, specifying if the output is flushed (True) or buffered (False). Default is False.
 
 * [Check out this GFG article for a detailed explanation of the flush parameter](https://www.geeksforgeeks.org/python-sys-stdout-flush/)
+* [Check out this artilce to know more about the print function in python from scaler topics](https://www.scaler.com/topics/print-in-python/)
 
 ### And, that's it for today. Code along and have fun ;)
