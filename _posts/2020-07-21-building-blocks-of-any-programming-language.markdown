@@ -107,6 +107,7 @@ Use the following resources to practice and know more about Data Structures and 
 [Data Structures- GeeksforGeeks](https://www.geeksforgeeks.org/data-structures/)
 [Solve Data Structures Code Challenges](https://www.hackerrank.com/domains/algorithms)
 [Algorithms- GeeksforGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+[Data Structures Tutorial - Scaler Topics](https://www.scaler.com/topics/data-structures/)
 
 ## Best Practices
 The last one is the best practices and coding style.
